@@ -1,0 +1,1 @@
+Criado metodos para impedir a inserção de valores negativos em preço e estoque. Também foi resolvido problema de encapsulamento, atributos da classe produto foram definidos como private e foi criado metodos seters e getters.
