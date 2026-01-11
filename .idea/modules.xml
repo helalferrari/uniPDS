@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/OpitionalAPI/OpitionalAPI.iml" filepath="$PROJECT_DIR$/OpitionalAPI/OpitionalAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReflectionAPI/ReflectionAPI.iml" filepath="$PROJECT_DIR$/ReflectionAPI/ReflectionAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegExAPI/RegExAPI.iml" filepath="$PROJECT_DIR$/RegExAPI/RegExAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecurityAPI/SecurityAPI.iml" filepath="$PROJECT_DIR$/SecurityAPI/SecurityAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/uniPDS.iml" filepath="$PROJECT_DIR$/.idea/uniPDS.iml" />
     </modules>
   </component>
