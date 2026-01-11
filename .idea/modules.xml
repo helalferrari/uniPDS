@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AnnotationAPI/AnnotationAPI.iml" filepath="$PROJECT_DIR$/AnnotationAPI/AnnotationAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/DateAndTimeAPI/DateAndTimeAPI.iml" filepath="$PROJECT_DIR$/DateAndTimeAPI/DateAndTimeAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/EstrutudaDeDados/EstrutudaDeDados.iml" filepath="$PROJECT_DIR$/EstrutudaDeDados/EstrutudaDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeradorDeArquivoGigante/GeradorDeArquivoGigante.iml" filepath="$PROJECT_DIR$/GeradorDeArquivoGigante/GeradorDeArquivoGigante.iml" />
       <module fileurl="file://$PROJECT_DIR$/OpitionalAPI/OpitionalAPI.iml" filepath="$PROJECT_DIR$/OpitionalAPI/OpitionalAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReflectionAPI/ReflectionAPI.iml" filepath="$PROJECT_DIR$/ReflectionAPI/ReflectionAPI.iml" />
       <module fileurl="file://$PROJECT_DIR$/RegExAPI/RegExAPI.iml" filepath="$PROJECT_DIR$/RegExAPI/RegExAPI.iml" />
